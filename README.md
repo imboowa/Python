@@ -16,3 +16,17 @@ This is like bubble sort but it has optimizations that kind of reduces swaps. I 
 
 # [core.py](https://github.com/imboowa/Python/blob/main/core.py)
 Well, algorithms are essential in programming. This one helps determine if a number entered is credit cardy or not. It takes in numbers and iterate through odd `suming them up` and iterates through even `multiplying each by 2`. Then sum even and odd. We lastly check if sum is divisible by 10 `must no reminder`.
+
+# [linear.py](https://github.com/imboowa/Python/blob/main/linear.py)
+I have tried machine learning since it is an essential algorithm in life and cyber age. Well, I have linear regression in my hand and multiple linear regression. I love to understand the concept rather than master the emerging libraries hence when something breaks, I am in to fix but not code. It is kind of a Math teacher, he teaches you the algorithm but doesn't code it but he can fix them problem when he looks through your debugger.
+
+# [multiple.py](https://github.com/imboowa/Python/blob/main/multiple.py)
+This one is more like linear regression but more inputs are involved it like previously we had `y = mx + b` but here we have `y = m1*w1 + m2*w2 + ... + b`. So multiple inputs give it the name multiple linear regression. I really love discovering algorithms because they are logical, simple, and fast.
+
+# Website
+[Immanuel Mboowa](https://imboowa.github.io/ImmanuelMboowa/index.html)
+
+# LinkedIn
+[Immanuel Mboowa](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
+
+©2025 Immanuel Mboowa. All Rights reserved
