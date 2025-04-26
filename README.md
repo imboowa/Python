@@ -27,5 +27,3 @@ This one is more like linear regression but more inputs are involved it like pre
 
 # LinkedIn
 [Immanuel Mboowa](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
-
-©2025 Immanuel Mboowa. All Rights reserved
